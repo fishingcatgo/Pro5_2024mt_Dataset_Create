@@ -63,7 +63,7 @@ def check_and_fix_json(json_str):
 url = "https://api.openai.com/v1/chat/completions"
 
 headers = {
-  'Authorization': 'Bearer sk-proj-N4Llo1YPN5RKk3EvwxFXT3BlbkFJNJy336T0X0XU1AkokDgM',
+  'Authorization': 'Bearer sk-xxx',
   'Content-Type': 'application/json',
   # 'Cookie': '__cf_bm=fGp5y4Qn_Qg8mF3bZFuXVofslJjFKFk9S43LcUIDXpI-1723704451-1.0.1.1-6fh0oXBorJv9RcM5QNHVtFJmDk.rxSOuaEgIGaONBvaYtTpWmeM.p.5M7ECm4ihQcJHJ.eeJgObYLzWOJqvloA; _cfuvid=b0K6Fx1KZDpXh7M4w.jzA.9m4zmITITJnkRzQU8LdrA-1723703518545-0.0.1.1-604800000'
 }
